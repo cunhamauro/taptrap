@@ -9,14 +9,14 @@ Browser game developed with:<br/><br/>
 • Javascript <br/>
 </br>
 
-<a href="https://taptrap.free.nf/">
+<a target="_blank" href="https://taptrap.free.nf/">
   <img src="https://github.com/cunhamauro/taptrap/assets/71226697/60b6b149-f16f-4015-af48-8c917e715ed3" alt="TapTrap-logo-white" width="200">
 </a> 
 
 <br/>
 <br/>
 
-Available to play at:  <a href="https://taptrap.free.nf/"> TapTrap</a> 
+Available to play at: <a target="_blank" href="https://taptrap.free.nf/"> TapTrap</a> 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
