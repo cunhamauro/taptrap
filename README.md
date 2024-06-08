@@ -16,7 +16,7 @@ Browser game developed with:<br/><br/>
 <br/>
 <br/>
 
-Available to play at: <a href="https://taptrap.free.nf/" target="_blank"> TapTrap</a> 
+Available to play at: [TapTrap](https://taptrap.free.nf/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
